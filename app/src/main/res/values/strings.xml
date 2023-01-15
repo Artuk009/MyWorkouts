@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyWorkouts (Firebase)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_workouts">My Workouts</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="next">Next</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="not_registered_yet">Not Registered Yet ??</string>
+    <string name="add_a_task">Add A Task</string>
+    <string name="add_workout_to_the_list">Add workout to the list</string>
+    <string name="re_enter_your_password">Re-enter Your Password</string>
+    <string name="already_registered">Already Registered !!</string>
+    <string name="background_image_for_splash_view">Background image for splash view</string>
+    <string name="app_background">App background</string>
+    <string name="type_workout">Type Workout</string>
+    <string name="adds_a_close_button">Adds a close button</string>
+</resources>
