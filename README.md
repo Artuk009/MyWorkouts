@@ -8,6 +8,6 @@ the application navigates to the home_fragment where the user can add, edit, and
 of pop up card views that have their logic implemented in a seperate fragment.
 
 # To Be Accomplished
-Next, I plan to add drawerLayout from the Navigation Component documentation page, so taht I may seperate the workouts into individual days based on muscle
+Next, I plan to add drawerLayout from the Navigation Component documentation page, so that I may seperate the workouts into individual days based on muscle
 groups trained in each exerscise. Additionally, I will add logout functionality, user permissions based on account status, as well as Bottom Navigation Bar
 that is a staple for most Android layouts these days.
